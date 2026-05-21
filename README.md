@@ -1,0 +1,2 @@
+# GenieVerse-OS-Real-Time-AI-Worlds-for-Collaboration-Simulation-and-Planetary-Engineering
+To moja opinia i sugestia dotycząca przyszłości platform AI: interaktywny świat AI, gdzie użytkownicy spotykają się online w czasie rzeczywistym na własnych mapach i serwerach. Możliwość tworzenia terenów, rzek, jezior, miast, planet i symulacji kosmicznych z pomocą Gemini/Genie AI oraz współpracy ludzi i avatarów AI.
