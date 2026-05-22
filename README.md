@@ -430,3 +430,4 @@ analiza relacji między obiektami,
 uczenie spójności przestrzennej,
 
 oraz koncepcje orbitalnej obserwacji wielkiej skali.
+<img width="1024" height="1536" alt="27535" src="https://github.com/user-attachments/assets/066b7687-c340-4893-ab80-299ef99c3b15" />
